@@ -5,7 +5,7 @@ From the perspective of used-car buyers, they have to spend some time finding si
 - Effectively predict the price of a used car based on various parameters
 - Whether the price is within buyers’ budget
 ## Prediction Report
-Please check the complete prediction report at: https://docs.google.com/document/d/1tXX5hDPkkdE8SvxiRLFDecBRutSv4YyJrqdgsS1chVE/edit
+Please check the complete prediction report at: https://docs.google.com/document/d/1z-TnHGyLoftaogp5tmFAH6VRMSa0Q8auw9kqmRNawEk/edit?usp=sharing
 
 ## Authors
 Jocelyn Li, Jennie Lin, Christy Sze, Janice Chance
